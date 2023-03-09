@@ -47,12 +47,6 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=BF91F3&center=true&width=900&lines=Searching+for+mor+info%3F)](https://git.io/typing-svg)
-
-<h1 align="center">Welcome to <a href="https://github.com/nixovsky" target="_blank">my perfect page</a>
-<img src="https://github.com/nixovsky/nixovsky/blob/main/goKirby.gif" height="50"/></h1>
-
 Feedback links. And just links :з 
 - <a href="https://t.me/nekit1010" target="_blank">Telegram</a>  
 - <a href="https://codepen.io/nixxxikkk" target="_blank">CodePen</a> 
