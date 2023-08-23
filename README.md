@@ -64,5 +64,5 @@ Feedback links. And just links :з
 - <a href="https://codepen.io/nixxxikkk" target="_blank">CodePen</a> 
 <img src="https://github.com/nixovsky/nixovsky/blob/main/danceKirby.gif" height="30"/>
 
-<h1 align="right">Shh, little Kirby sleeps here.ᅠ ᅠ 
+<h1 align="right">Shh, little Kirby sleeps here.ㅤㅤ
 <img src="https://github.com/nixovsky/nixovsky/blob/main/sleepKirby.gif" height="70"/></h1>
